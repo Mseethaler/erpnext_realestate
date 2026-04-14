@@ -8264,7 +8264,7 @@
   "doctype": "Custom DocPerm",
   "email": 1,
   "export": 0,
-  "if_owner": 0,
+  "if_owner": 1,
   "import": 0,
   "modified": "2026-01-07 10:29:24.455533",
   "name": "5bc12dvcr4",
