@@ -56,14 +56,18 @@ fixtures = [
     },
     # Kanban Boards
     {
-    "dt": "Kanban Board",
-    "filters": [["name", "in", [
-        "Lead Status Board",
-        "RE Sales",
-        "RE Buys",
-        "RE Leases (Landlord)",
-        "RE Leases (Tenant)"
-    ]]]
+        "dt": "Kanban Board",
+        "filters": [["name", "in", [
+            "Lead Status Board",
+            "RE Sales",
+            "RE Buys",
+            "RE Leases (Landlord)",
+            "RE Leases (Tenant)"
+        ]]]
+    },
+    # Custom DocType Permissions
+    {
+        "dt": "Custom DocPerm"
     },
 ]
 
