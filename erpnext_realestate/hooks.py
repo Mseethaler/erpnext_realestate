@@ -9,6 +9,11 @@ app_license = "MIT"
 after_install = "erpnext_realestate.setup.install.after_install"
 
 fixtures = [
+    # Custom DocType: Listing
+    {
+        "dt": "DocType",
+        "filters": [["name", "=", "Listing"]]
+    },
     # Item (Property) custom fields
     {
         "dt": "Custom Field",
