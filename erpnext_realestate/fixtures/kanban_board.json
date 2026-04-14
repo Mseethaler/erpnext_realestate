@@ -1,87 +1,15 @@
 [
  {
   "columns": [
-   {
-    "column_name": "Property Listed",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "RE Sales",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Active Marketing",
-    "indicator": "Gray",
-    "order": "[\"CRM-OPP-2026-00002\"]",
-    "parent": "RE Sales",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Offer Received",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "RE Sales",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Negotiation",
-    "indicator": "Gray",
-    "order": "[\"CRM-OPP-2026-00005\"]",
-    "parent": "RE Sales",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Under Contract",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "RE Sales",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Due Diligence / Appraisal",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "RE Sales",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Closing / Settlement Scheduled",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "RE Sales",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Closed (Sold)",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "RE Sales",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Withdrawn / Lost",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "RE Sales",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   }
+   {"column_name": "Property Listed", "indicator": "Gray", "order": "[]", "parent": "RE Sales", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Active Marketing", "indicator": "Gray", "order": "[]", "parent": "RE Sales", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Offer Received", "indicator": "Gray", "order": "[]", "parent": "RE Sales", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Negotiation", "indicator": "Gray", "order": "[]", "parent": "RE Sales", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Under Contract", "indicator": "Gray", "order": "[]", "parent": "RE Sales", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Due Diligence / Appraisal", "indicator": "Gray", "order": "[]", "parent": "RE Sales", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Closing / Settlement Scheduled", "indicator": "Gray", "order": "[]", "parent": "RE Sales", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Closed (Sold)", "indicator": "Gray", "order": "[]", "parent": "RE Sales", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Withdrawn / Lost", "indicator": "Gray", "order": "[]", "parent": "RE Sales", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"}
   ],
   "docstatus": 0,
   "doctype": "Kanban Board",
@@ -97,69 +25,13 @@
  },
  {
   "columns": [
-   {
-    "column_name": "Lead",
-    "indicator": "Gray",
-    "order": "[\"CRM-LEAD-2026-00006\"]",
-    "parent": "Lead Status Board",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Qualifying",
-    "indicator": "Gray",
-    "order": "[\"CRM-LEAD-2026-00002\"]",
-    "parent": "Lead Status Board",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Converted",
-    "indicator": "Gray",
-    "order": "[\"CRM-LEAD-2026-00003\"]",
-    "parent": "Lead Status Board",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Not Qualified",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "Lead Status Board",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Cold",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "Lead Status Board",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Do Not Contact",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "Lead Status Board",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Junk",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "Lead Status Board",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   }
+   {"column_name": "Lead", "indicator": "Gray", "order": "[]", "parent": "Lead Status Board", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Qualifying", "indicator": "Gray", "order": "[]", "parent": "Lead Status Board", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Converted", "indicator": "Gray", "order": "[]", "parent": "Lead Status Board", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Not Qualified", "indicator": "Gray", "order": "[]", "parent": "Lead Status Board", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Cold", "indicator": "Gray", "order": "[]", "parent": "Lead Status Board", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Do Not Contact", "indicator": "Gray", "order": "[]", "parent": "Lead Status Board", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Junk", "indicator": "Gray", "order": "[]", "parent": "Lead Status Board", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"}
   ],
   "docstatus": 0,
   "doctype": "Kanban Board",
@@ -175,87 +47,15 @@
  },
  {
   "columns": [
-   {
-    "column_name": "Property Identified",
-    "indicator": "Gray",
-    "order": "[\"CRM-OPP-2026-00003\"]",
-    "parent": "RE Leases (Tenant)",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Showing / Viewing Scheduled",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "RE Leases (Tenant)",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Application Submitted",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "RE Leases (Tenant)",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Negotiation",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "RE Leases (Tenant)",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Lease Approved",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "RE Leases (Tenant)",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Lease Signed",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "RE Leases (Tenant)",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Move-in Coordination",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "RE Leases (Tenant)",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Lease Commenced (Closed Won)",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "RE Leases (Tenant)",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Lease Not Executed (Closed Lost)",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "RE Leases (Tenant)",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   }
+   {"column_name": "Property Identified", "indicator": "Gray", "order": "[]", "parent": "RE Leases (Tenant)", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Showing / Viewing Scheduled", "indicator": "Gray", "order": "[]", "parent": "RE Leases (Tenant)", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Application Submitted", "indicator": "Gray", "order": "[]", "parent": "RE Leases (Tenant)", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Negotiation", "indicator": "Gray", "order": "[]", "parent": "RE Leases (Tenant)", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Lease Approved", "indicator": "Gray", "order": "[]", "parent": "RE Leases (Tenant)", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Lease Signed", "indicator": "Gray", "order": "[]", "parent": "RE Leases (Tenant)", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Move-in Coordination", "indicator": "Gray", "order": "[]", "parent": "RE Leases (Tenant)", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Lease Commenced (Closed Won)", "indicator": "Gray", "order": "[]", "parent": "RE Leases (Tenant)", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Lease Not Executed (Closed Lost)", "indicator": "Gray", "order": "[]", "parent": "RE Leases (Tenant)", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"}
   ],
   "docstatus": 0,
   "doctype": "Kanban Board",
@@ -271,87 +71,15 @@
  },
  {
   "columns": [
-   {
-    "column_name": "Listing Agreement Signed",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "RE Leases (Landlord)",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Marketing / Showings Active",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "RE Leases (Landlord)",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Application Received",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "RE Leases (Landlord)",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Tenant Screening / Review",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "RE Leases (Landlord)",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Negotiation",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "RE Leases (Landlord)",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Lease Singed",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "RE Leases (Landlord)",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Move-in Coordination",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "RE Leases (Landlord)",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Lease Commenced (Closed Won)",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "RE Leases (Landlord)",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Listing Withdrawn / Lost",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "RE Leases (Landlord)",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   }
+   {"column_name": "Listing Agreement Signed", "indicator": "Gray", "order": "[]", "parent": "RE Leases (Landlord)", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Marketing / Showings Active", "indicator": "Gray", "order": "[]", "parent": "RE Leases (Landlord)", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Application Received", "indicator": "Gray", "order": "[]", "parent": "RE Leases (Landlord)", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Tenant Screening / Review", "indicator": "Gray", "order": "[]", "parent": "RE Leases (Landlord)", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Negotiation", "indicator": "Gray", "order": "[]", "parent": "RE Leases (Landlord)", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Lease Signed", "indicator": "Gray", "order": "[]", "parent": "RE Leases (Landlord)", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Move-in Coordination", "indicator": "Gray", "order": "[]", "parent": "RE Leases (Landlord)", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Lease Commenced (Closed Won)", "indicator": "Gray", "order": "[]", "parent": "RE Leases (Landlord)", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Listing Withdrawn / Lost", "indicator": "Gray", "order": "[]", "parent": "RE Leases (Landlord)", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"}
   ],
   "docstatus": 0,
   "doctype": "Kanban Board",
@@ -367,96 +95,16 @@
  },
  {
   "columns": [
-   {
-    "column_name": "Property Identified",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "RE Buys",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Viewing / Showing Scheduled",
-    "indicator": "Gray",
-    "order": "[\"CRM-OPP-2026-00005\"]",
-    "parent": "RE Buys",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Offer Preparation",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "RE Buys",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Trigger Offer Submit",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "RE Buys",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Negotiation",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "RE Buys",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Under Contract",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "RE Buys",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Due Diligence / Inspection Period",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "RE Buys",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Closing / Settlement Scheduled",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "RE Buys",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Closed (Won)",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "RE Buys",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   },
-   {
-    "column_name": "Closed (Lost)",
-    "indicator": "Gray",
-    "order": "[]",
-    "parent": "RE Buys",
-    "parentfield": "columns",
-    "parenttype": "Kanban Board",
-    "status": "Active"
-   }
+   {"column_name": "Property Identified", "indicator": "Gray", "order": "[]", "parent": "RE Buys", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Viewing / Showing Scheduled", "indicator": "Gray", "order": "[]", "parent": "RE Buys", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Offer Preparation", "indicator": "Gray", "order": "[]", "parent": "RE Buys", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Trigger Offer Submit", "indicator": "Gray", "order": "[]", "parent": "RE Buys", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Negotiation", "indicator": "Gray", "order": "[]", "parent": "RE Buys", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Under Contract", "indicator": "Gray", "order": "[]", "parent": "RE Buys", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Due Diligence / Inspection Period", "indicator": "Gray", "order": "[]", "parent": "RE Buys", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Closing / Settlement Scheduled", "indicator": "Gray", "order": "[]", "parent": "RE Buys", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Closed (Won)", "indicator": "Gray", "order": "[]", "parent": "RE Buys", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"},
+   {"column_name": "Closed (Lost)", "indicator": "Gray", "order": "[]", "parent": "RE Buys", "parentfield": "columns", "parenttype": "Kanban Board", "status": "Active"}
   ],
   "docstatus": 0,
   "doctype": "Kanban Board",
