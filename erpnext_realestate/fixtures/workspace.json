@@ -9,7 +9,7 @@
     "parenttype": "Workspace"
    }
   ],
-  "content": "[{\"id\":\"kb3XPLg8lb\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Your Shortcuts (Use Cntl + H or Cmd + H to return to this screen!)</b></span>\",\"col\":12}},{\"id\":\"xfHZl6Fv_h\",\"type\":\"card\",\"data\":{\"card_name\":\"Leads & Tasks\",\"col\":3}},{\"id\":\"vuQFkFea8g\",\"type\":\"card\",\"data\":{\"card_name\":\"Properties\",\"col\":3}},{\"id\":\"OAxVcr7VJ-\",\"type\":\"card\",\"data\":{\"card_name\":\"Clients\",\"col\":3}},{\"id\":\"znyp478G3q\",\"type\":\"card\",\"data\":{\"card_name\":\"Partners\",\"col\":3}},{\"id\":\"fgWuN7hNOx\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Opportunities</b></span>\",\"col\":12}},{\"id\":\"oVDQuhH06m\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"RE Sales\",\"col\":3}},{\"id\":\"0uyIuOmq-1\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"RE Lease (Landlord)\",\"col\":3}},{\"id\":\"Ro7lpajHDV\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"RE Lease (Tenant)\",\"col\":3}},{\"id\":\"innyrGWp3a\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"RE Buy\",\"col\":3}},{\"id\":\"d_KVM1gsf9\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"GAN0q5s5mB\",\"type\":\"custom_block\",\"data\":{\"custom_block_name\":\"Company Docs\",\"col\":2}},{\"id\":\"DLT3locbPX\",\"type\":\"custom_block\",\"data\":{\"custom_block_name\":\"Sign Docs and Templates\",\"col\":2}},{\"id\":\"nPHWq5iFmb\",\"type\":\"custom_block\",\"data\":{\"custom_block_name\":\"Costar Property Import (coming soon)\",\"col\":2}},{\"id\":\"dosrrUNfpO\",\"type\":\"custom_block\",\"data\":{\"custom_block_name\":\"Crexi Property Import (coming soon)\",\"col\":2}},{\"id\":\"xqQM_xIP7A\",\"type\":\"custom_block\",\"data\":{\"custom_block_name\":\"Wiki Help Docs\",\"col\":2}},{\"id\":\"-s-IEc4FYG\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Won Opportunities\",\"col\":12}}]",
+  "content": "[{\"id\":\"kb3XPLg8lb\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Your Shortcuts (Use Cntl + H or Cmd + H to return to this screen!)</b></span>\",\"col\":12}},{\"id\":\"zVfyVHEcz2\",\"type\":\"card\",\"data\":{\"card_name\":\"Leads & Todo's\",\"col\":3}},{\"id\":\"vuQFkFea8g\",\"type\":\"card\",\"data\":{\"card_name\":\"Properties\",\"col\":3}},{\"id\":\"OAxVcr7VJ-\",\"type\":\"card\",\"data\":{\"card_name\":\"Clients\",\"col\":3}},{\"id\":\"znyp478G3q\",\"type\":\"card\",\"data\":{\"card_name\":\"Partners\",\"col\":3}},{\"id\":\"fgWuN7hNOx\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Opportunities</b></span>\",\"col\":12}},{\"id\":\"oVDQuhH06m\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"RE Sales\",\"col\":3}},{\"id\":\"0uyIuOmq-1\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"RE Lease (Landlord)\",\"col\":3}},{\"id\":\"Ro7lpajHDV\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"RE Lease (Tenant)\",\"col\":3}},{\"id\":\"innyrGWp3a\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"RE Buy\",\"col\":3}},{\"id\":\"d_KVM1gsf9\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"GAN0q5s5mB\",\"type\":\"custom_block\",\"data\":{\"custom_block_name\":\"Company Docs\",\"col\":2}},{\"id\":\"DLT3locbPX\",\"type\":\"custom_block\",\"data\":{\"custom_block_name\":\"Sign Docs and Templates\",\"col\":2}},{\"id\":\"nPHWq5iFmb\",\"type\":\"custom_block\",\"data\":{\"custom_block_name\":\"Costar Property Import (coming soon)\",\"col\":2}},{\"id\":\"dosrrUNfpO\",\"type\":\"custom_block\",\"data\":{\"custom_block_name\":\"Crexi Property Import (coming soon)\",\"col\":2}},{\"id\":\"xqQM_xIP7A\",\"type\":\"custom_block\",\"data\":{\"custom_block_name\":\"Wiki Help Docs\",\"col\":2}},{\"id\":\"-s-IEc4FYG\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Won Opportunities\",\"col\":12}}]",
   "custom_blocks": [
    {
     "custom_block_name": "Costar Property Import",
@@ -530,8 +530,8 @@
     "hidden": 0,
     "icon": null,
     "is_query_report": 0,
-    "label": "Leads & Tasks",
-    "link_count": 3,
+    "label": "Leads & Todo's",
+    "link_count": 2,
     "link_to": null,
     "link_type": "DocType",
     "onboard": 0,
@@ -566,25 +566,7 @@
     "hidden": 0,
     "icon": null,
     "is_query_report": 0,
-    "label": "Contacts",
-    "link_count": 0,
-    "link_to": "Contact",
-    "link_type": "DocType",
-    "onboard": 0,
-    "only_for": null,
-    "parent": "Real Estate",
-    "parentfield": "links",
-    "parenttype": "Workspace",
-    "report_ref_doctype": null,
-    "type": "Link"
-   },
-   {
-    "dependencies": null,
-    "description": null,
-    "hidden": 0,
-    "icon": null,
-    "is_query_report": 0,
-    "label": "Todo",
+    "label": "Todos",
     "link_count": 0,
     "link_to": "ToDo",
     "link_type": "DocType",
@@ -597,7 +579,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2026-04-14 10:37:31.523767",
+  "modified": "2026-04-21 06:54:21.670372",
   "module": "",
   "name": "Real Estate",
   "number_cards": [],
