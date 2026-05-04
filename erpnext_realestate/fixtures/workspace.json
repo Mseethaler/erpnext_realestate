@@ -580,7 +580,7 @@
    }
   ],
   "modified": "2026-04-21 06:54:21.670372",
-  "module": "",
+  "module": "Real Estate",
   "name": "Real Estate",
   "number_cards": [],
   "parent_page": "CRM",
@@ -637,7 +637,7 @@
     "parenttype": "Workspace",
     "report_ref_doctype": null,
     "restrict_to_domain": null,
-    "stats_filter": "[[\"Opportunity\",\"_user_tags\",\"not like\",\"%inactive%\",false],[\"Opportunity\",\"opportunity_type\",\"=\",\"Re Lease (Landlord)\",false],[\"Opportunity\",\"status\",\"!=\",\"Closed\",false]]",
+    "stats_filter": "[[\"Opportunity\",\"_user_tags\",\"not like\",\"%inactive%\",false],[\"Opportunity\",\"opportunity_type\",\"=\",\"RE Lease (Landlord)\",false],[\"Opportunity\",\"status\",\"!=\",\"Closed\",false]]",
     "type": "DocType",
     "url": null
    },

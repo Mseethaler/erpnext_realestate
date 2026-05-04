@@ -551,7 +551,7 @@
   "name": "Opportunity-custom_re_lease_stage_landlord",
   "no_copy": 0,
   "non_negative": 0,
-  "options": "Listing Agreement Signed\nMarketing / Showings Active\nApplication Received\nTenant Screening / Review\nNegotiation\nLease Singed\nMove-in Coordination\nLease Commenced (Closed Won)\nListing Withdrawn / Lost",
+  "options": "Listing Agreement Signed\nMarketing / Showings Active\nApplication Received\nTenant Screening / Review\nNegotiation\nLease Signed\nMove-in Coordination\nLease Commenced (Closed Won)\nListing Withdrawn / Lost",
   "permlevel": 0,
   "placeholder": null,
   "precision": "",
